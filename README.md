@@ -1,5 +1,9 @@
+
+
 # SNN Filter
  SNN Filter in Unity URP
+
+ To use: Add the `SNN` Scriptable Renderer Feature to your URP renderer settings and assign a material.
  
  https://zhuanlan.zhihu.com/p/599726698
  
